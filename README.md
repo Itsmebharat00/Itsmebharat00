@@ -1,4 +1,5 @@
-![Uploading github-stats-Itsmebharat00-bento (2).png…]()
+<img width="1440" height="1367" alt="github-stats-Itsmebharat00-bento (2)" src="https://github.com/user-attachments/assets/b91b31a4-7c54-4637-88c0-e0ed60314327" />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
