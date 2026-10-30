@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning React js</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 MERN stack developer </p>
 
 ###
 
